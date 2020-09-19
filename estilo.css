@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+   
+}
+
+h1 {
+    margin: 0;
+}
+
+.cabeçalho{
+    color: white;
+    background-color: #21022d;
+    text-align: center;
+    padding: 8px;
+    border: solid #21022d 0px;
+}
+
+#corpo-da-página{
+    color: #21022d;
+    background-color: #e2d8e7;
+    border: solid white 24px;
+}
+
+#cardápio{
+    margin: 16px;
+    margin-bottom: 32px;
+    }
+
+.vit-imagens{
+    width: 150px;
+    height: 150px;
+}
+
+#vitaminas{
+   margin-left: 64px;
+}
+
+#vit-sem-lactose{
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#vitamina{
+    text-align: center;
+}   
+
+#espaço{
+    margin-bottom: 64px;
+}
